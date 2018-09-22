@@ -1,6 +1,6 @@
 # solidity-bls
 
-**Note**: This repository is a WIP and will be updated frequently in the coming weeks.
+**Note**: This repository is a WIP and will be updated frequently in the coming weeks. This is probably completely broken, please don't use this in production!
 
 ---
 
